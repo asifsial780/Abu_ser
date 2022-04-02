@@ -3,7 +3,7 @@
     "description": "Abu is the Modified Version of WhatsAsena, Made By @Afx-Abu.",
     "logo": "https://i.imgur.com/CtaexU3.jpeg",
     "keywords": ["whatsapp", "userbot", "Abu", "WhatsAsena", "ser", "bot", "ai"],
-    "repository": "https://github.com/Afx-Abu/Abu_ser",
+    "repository": "https://github.com/asifsial780/Abu_ser",
     "stack": "container",
     "env": {
         "ABU_QR_CODE": 		  {
